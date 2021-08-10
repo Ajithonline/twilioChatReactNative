@@ -1,0 +1,4 @@
+#Sat Aug 07 14:26:53 IST 2021
+base.0=/Users/ajith.v/Desktop/react-native-twilio-chat/android/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

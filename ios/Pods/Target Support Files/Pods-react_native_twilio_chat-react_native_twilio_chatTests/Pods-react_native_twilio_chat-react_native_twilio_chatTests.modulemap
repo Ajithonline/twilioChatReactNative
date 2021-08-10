@@ -1,0 +1,6 @@
+module Pods_react_native_twilio_chat_react_native_twilio_chatTests {
+  umbrella header "Pods-react_native_twilio_chat-react_native_twilio_chatTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
